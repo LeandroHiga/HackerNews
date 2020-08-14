@@ -20,4 +20,4 @@
 
 > Project Catalyst to create a macOS app from an iOS app.
 
-<img src="images/HackerNews_3.png" width="500" height="400">
+<img src="images/HackerNews_3.png" width="500" height="350">
