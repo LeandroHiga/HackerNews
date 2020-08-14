@@ -1,4 +1,4 @@
-# HackerNews
+# Hacker News
 > News app to read the latest articles about computer science and entrepreneurship.
 
 <img src="images/HackerNews_1.png" width="350" height="750">
